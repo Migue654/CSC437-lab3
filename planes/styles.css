@@ -8,6 +8,7 @@ body {
     gap: 20px;
     background-color: #87bdc3;
     color: white;
+    text-decoration: underline;
 }
 
 .banner a {
@@ -24,6 +25,7 @@ body {
     height: 150px;
 }
 
-h6 {
+footer{
     text-align: center;
+    font-size: 0.75rem;
 }

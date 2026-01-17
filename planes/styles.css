@@ -2,19 +2,21 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.banner {
+.banner nav{
     display: flex;
     align-items: center;
-    gap: 20px;
-    background-color: #87bdc3;
+    gap: 1.25rem;
+    background-color: blue;
     color: white;
     text-decoration: underline;
 }
-
+ h2  {
+    font-size: 1.17rem;
+}
 .banner a {
     color: white;
     text-decoration: none;
-    margin: 30px 0;
+    margin: 1.875rem 0;
 }
 
 .banner a:hover {
@@ -22,10 +24,10 @@ body {
 }
 
 .plane-row img {
-    height: 150px;
+    height: 9.375rem;
 }
 
 footer{
     text-align: center;
-    font-size: 0.75rem;
+    font-size: 0.67rem;
 }
